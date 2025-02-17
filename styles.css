@@ -1,0 +1,23 @@
+.navbar-custom {
+    background-color: #405662;
+}
+#carouselCasas {
+    width: 40vw;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:auto;
+}
+#custom-text{
+    font-family: "Roboto Flex", sans-serif;
+    font-weight: 550;
+}
+h5, h6 {
+    font-family: "Roboto Flex", sans-serif;
+}
+h6{
+    font-weight: 100;
+}
